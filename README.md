@@ -1,6 +1,6 @@
-Não consegui colocar o favicon
-Não consegui colocar na tela toda
-Tiv dificuldades no figma para ver as distancias de um bloco para outro
+Não consegui colocar o favicon e não consegui colocar na tela toda.
+
+Tive dificuldades no figma para ver as distancias de um bloco para outro
 basicamente fiz manual.
 
 Eu sei que poderia ter pedido ajuda ou pesquisado, mas como estou iniciando
